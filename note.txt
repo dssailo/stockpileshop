@@ -6,3 +6,9 @@ You will need this key if you move data to different shopping cart installation.
 
 Admin Unique key
 spsadmin
+
+Admin Login URL
+http://stockpileshop.com/index.php?s=spsadmin
+
+Username and Password
+admin / 12345
