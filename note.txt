@@ -1,0 +1,8 @@
+
+Keep this secure key in save place.
+This key is used to encrypt customers's secure data.
+You will need this key if you move data to different shopping cart installation.
+6G4L
+
+Admin Unique key
+spsadmin
